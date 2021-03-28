@@ -56,4 +56,28 @@
     "numberofprod": "20",
     "price" : "30"
 }
+ ,
+{
+    "id": "",
+    "image": [
+        {
+            "url": "",
+            "form": ""
+        }, {
+            "url": "",
+            "form": ""
+        }, {
+            "url": "",
+            "form": ""
+        }
+    ],
+    "title": "",
+    "producer": "",
+    "madeof": "",
+    "type": "",
+    "detail": "",
+    "userfor": "",
+    "numberofprod": "20",
+    "price" : "30"
+}
 ]
